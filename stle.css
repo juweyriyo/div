@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.ligth-box{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+button{
+    padding: 20px 50px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 28px;
+
+}
+
+.parent{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
